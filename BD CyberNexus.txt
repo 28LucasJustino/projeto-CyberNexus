@@ -1,0 +1,4 @@
+drop database bd_Nexus;
+create database bd_Nexus;
+use bd_Nexus;
+
